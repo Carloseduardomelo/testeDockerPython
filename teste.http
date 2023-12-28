@@ -1,0 +1,16 @@
+### GET getData
+
+GET http://localhost:8000
+
+
+
+
+### POST users
+
+POST http://localhost:8000/create/
+
+{
+    "title": "ola mundo",
+    "descripton": "tu e corno",
+    "body": "esse uma api kakakak"
+}
